@@ -1,0 +1,12 @@
+Oct  2 10:15:01 server sshd[1201]: Failed password for root from 203.0.113.50 port 51122 ssh2
+Oct  2 10:15:03 server sshd[1203]: Failed password for root from 203.0.113.50 port 51124 ssh2
+Oct  2 10:15:05 server sshd[1205]: Failed password for admin from 203.0.113.50 port 51126 ssh2
+Oct  2 10:15:07 server sshd[1207]: Failed password for invalid user test from 203.0.113.50 port 51128 ssh2
+Oct  2 10:15:09 server sshd[1209]: Failed password for root from 203.0.113.50 port 51130 ssh2
+Oct  2 10:15:11 server sshd[1211]: Failed password for root from 203.0.113.50 port 51132 ssh2
+Oct  2 10:16:20 server sshd[1220]: Accepted password for zakaria from 192.0.2.10 port 40222 ssh2
+Oct  2 10:17:45 server sshd[1230]: Failed password for zakaria from 192.0.2.10 port 40230 ssh2
+Oct  2 10:18:02 server sshd[1235]: Failed password for ubuntu from 198.51.100.77 port 60110 ssh2
+Oct  2 10:18:05 server sshd[1237]: Failed password for ubuntu from 198.51.100.77 port 60112 ssh2
+Oct  2 10:18:08 server sshd[1239]: Failed password for ubuntu from 198.51.100.77 port 60114 ssh2
+Oct  2 10:19:30 server sshd[1245]: Accepted password for zakaria from 192.0.2.10 port 40240 ssh2
